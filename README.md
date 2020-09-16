@@ -3,7 +3,8 @@
 - 🤪追求技术 追求突破
 - 💬享受生活 享受当下
 - ✨正在努力成为一名前端程序员
-- 欢迎访问我的(个人网站)[https://xgpax.top/]
+- 🚀欢迎访问我的个人网站:[https://xgpax.top/]
+
 <!--
 **WHUT-XGP/WHUT-XGP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
