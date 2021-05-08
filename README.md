@@ -2,7 +2,6 @@
 - 😀热爱开源 热爱coding
 - 🤪追求技术 追求突破
 - 💬享受生活 享受当下
-- 👏目前正在bytedance实习，需要内推的话，欢迎发送简历到：xieguangping.ax@bytedance.com 
 - ✨希望能成为一名足够优秀的前端程序员！
 - 🚀欢迎访问我的[个人网站](https://xgpax.top/)
 - 🧐keep calm and make epic shit 
