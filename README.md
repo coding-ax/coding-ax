@@ -6,4 +6,10 @@
 - 🚀 欢迎访问我的[个人网站](https://xgpax.top/)
 - 🧐 keep calm and make epic shit 
 
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHUT-XGP&theme=tokyonight&layout=compact&line_height=27" width="360"/>
+
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=WHUT-XGP&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"/>
