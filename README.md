@@ -2,7 +2,7 @@
 - 😀 热爱开源 热爱coding
 - 🤪 追求技术 追求突破
 - 💬 享受生活 享受当下
-- ✨ 当下的心愿是顺利毕业  
+- ✨ 开心工作 健康生活    
 - 🚀 欢迎访问我的[个人网站](https://bytedancer.vip/)
 - 🧐 keep calm and make epic shit 
 
